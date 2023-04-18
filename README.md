@@ -3,6 +3,8 @@ MyNews is a web application for reading the latest news stories as they happen a
 
 The app is built using React and SCSS.
 
+The app is deployed on Netlify: https://rpivac00-my-news-portal.netlify.app/
+
 ## Description
 News is fetched from different NY Times APIs and newsapi.org.
 
